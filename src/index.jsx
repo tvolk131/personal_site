@@ -16,4 +16,4 @@ render(
       </Switch>
     </div>
   </BrowserRouter>
-);
+, document.getElementById('app'));
